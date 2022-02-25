@@ -1,0 +1,92 @@
+.linear{
+    background-image: linear-gradient(red,green);
+    width: 200px;
+    height: 200px;
+}
+.radial{
+    background-image: radial-gradient(blue,yellow);
+    width: 200px;
+    height: 200px;
+}
+.float{
+    background-color: aqua;
+    width: 100px;
+    height: 100px;
+    float: right;
+    clear: left;
+}
+.clear{
+    background-color: deeppink;
+    width: 100px;
+    height: 100px;
+    float: left;
+    clear: right;
+}
+.box1{
+    background-color: chartreuse;
+    box-sizing: border-box;
+    height: 200px;
+    width: 200px;
+    padding: 20px;
+}
+.box2{
+    background-color: crimson;
+    box-sizing: content-box;
+    height: 200px;
+    width: 200px;
+    padding: 20px;
+}
+.box{
+    height: 200px;
+    width: 200px;
+    margin-left: 200px;
+    position: absolute;
+
+}
+.box3{
+    background-color: darkgreen;
+    border: 2px solid black;
+    z-index: +1;
+}
+.box4{
+    background-color: darkmagenta;
+    border: 2px solid black;
+    height: 300px;
+    width: 300px;
+    z-index: -1;
+}
+.boxx1{
+    background-color: deeppink;
+    width: 100px;
+    height: 100px;
+    float: left;
+    clear: right;
+}
+.boxx2{
+    background-color: deeppink;
+    width: 100px;
+    height: 100px;
+    float: right;
+    clear: left;
+}
+.boxx3{
+    background-color: deeppink;
+    width: 100px;
+    height: 100px;
+    float: left;
+    clear: right;
+}
+.boxx4{
+    background-color: deeppink;
+    width: 100px;
+    height: 100px;
+    float: right;
+    clear: left;
+}
+.boxx5{
+    background-color: deeppink;
+    width: 100px;
+    height: 100px;
+    float: left;
+    clear: right;
+}
