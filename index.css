@@ -54,6 +54,7 @@
     height: 300px;
     width: 300px;
     z-index: -1;
+    text-align: end;
 }
 .boxx1{
     background-color: deeppink;
